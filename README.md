@@ -2,7 +2,7 @@
 Arima model predicting price development of AAPL stock
 
 Date range can be extended, but additional attention to ARIMA parameters has to be made. 
-Script is not fully automatic. Any changes will mean that model has to be re-evlauated.
+Script is not fully automatic. Any changes will mean that model has to be re-evaluated.
 
 Script includes:
 1. data loading
